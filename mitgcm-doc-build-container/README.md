@@ -16,6 +16,8 @@ docker exec -i -t build_doc /bin/bash
 ```
 Build docs example (in container)
 ```
+# export PATH=${PATH}:/root/anaconda3/bin
+# source activate doc-build
 # cd /MITgcm/gits
 # cd jrscott/doc
 # git checkout doc_edits_ch5
