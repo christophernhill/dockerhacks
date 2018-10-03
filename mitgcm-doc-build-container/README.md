@@ -1,5 +1,5 @@
 Dockerfile and "provisioning" scripts for creating Ubuntu image for
-building MITgcm Spihinx documentation
+building MITgcm Sphinx documentation
 
 - example usage
 Build an image (if needed)
